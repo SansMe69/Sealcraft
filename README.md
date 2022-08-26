@@ -1,7 +1,7 @@
 # Sealcraft Changelog
 27/08/22
-+ Added Starter Kit
-+ Added Agate Kit
++ Added Starter Kit [(#6)](https://github.com/SansMe69/Sealcraft/issues/6)
++ Added Agate Kit [(#6)](https://github.com/SansMe69/Sealcraft/issues/6)
 - Rearranged Kits GUI
 
 
