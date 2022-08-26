@@ -1,4 +1,10 @@
 # Sealcraft Changelog
+27/08/22
++ Added Starter Kit
++ Added Agate Kit
+- Rearranged Kits GUI
+
+
 
 26/08/22
 - Updated Arclight from `1.0.3` to Daniel's `1.0.4`
@@ -70,7 +76,6 @@
 			+ Whipped Dream
 			+ Sachet
 			+ Galarica Wreath
-			
 			```
 	- Sell Shop
 		```
