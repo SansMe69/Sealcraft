@@ -3,6 +3,22 @@
 + Added Starter Kit [(#6)](https://github.com/SansMe69/Sealcraft/issues/6)
 + Added Agate Kit [(#6)](https://github.com/SansMe69/Sealcraft/issues/6)
 - Rearranged Kits GUI
+- Fixed Claimblocks transferring from old world [(#10)](https://github.com/SansMe69/Sealcraft/issues/10)
+- Fixed all permission nodes for: [(#11)](https://github.com/SansMe69/Sealcraft/issues/11)
+	- Checkspawns Legendary
+	- Repair
+	- Fly
+	- Unlimited Homes
+	- Feed
+	- Workbench
+	- Hat
+	- Coloured Chat
+	- Enderchest
+	- Itemname
+	- Coloured Msg
+	- Nick
+	- Warp Shrines
+
 
 
 
