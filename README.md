@@ -1,5 +1,12 @@
 # Sealcraft Changelog
-27/08/22
+__**28/08/22**__
+- Tweaked Store Permissions [(#4)](https://github.com/SansMe69/Sealcraft/issues/4)
++ Added **Repurposed Structures**
+- Removed **Terraforged** (this corrupts every biome lol)
++ Added Adventure World
+- Changed rarity of Mythical Crate rewards [(#16)](https://github.com/SansMe69/Sealcraft/issues/16)
+
+__**27/08/22**__
 + Added Starter Kit [(#6)](https://github.com/SansMe69/Sealcraft/issues/6)
 + Added Agate Kit [(#6)](https://github.com/SansMe69/Sealcraft/issues/6)
 - Rearranged Kits GUI
@@ -22,9 +29,7 @@
 - Reduced rarity of Eevee from Shiny Crate [(#15)](https://github.com/SansMe69/Sealcraft/issues/15)
 
 
-
-
-26/08/22
+__**26/08/22**__
 - Updated Arclight from `1.0.3` to Daniel's `1.0.4`
 + Added Bingo Rewards for single squares, lines, columns and full cards
 - Tweaked Unscramble rewards, now rewards anywhere from `$300` to `$1000` with $100 increments [(#3)](https://github.com/SansMe69/Sealcraft/issues/3)
