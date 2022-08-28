@@ -18,6 +18,8 @@
 	- Coloured Msg
 	- Nick
 	- Warp Shrines
+- Fixed Crates being broken [(#19)](https://github.com/SansMe69/Sealcraft/issues/19)
+- Reduced rarity of Eevee from Shiny Crate [(#15)](https://github.com/SansMe69/Sealcraft/issues/15)
 
 
 
