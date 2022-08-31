@@ -1,4 +1,16 @@
 # Sealcraft Changelog
+**__31/08/22__**
+- Migrated Test Server to OVH, ready for transfer to Live
+- Reduced Payday and G-Max Gold Rush payouts to match Live
+- TRs are no longer reusable
+- Dens are no longer breakable
+- The "drop" button on reward screen now deletes instead of drops
+- Re-added Auto Restarts every 6 hours
+- Removed itemname access from Plasma
+- Added itemname access to Galactic and above
+- Itemname now works with colours and formatting
+
+
 **__28/08/22__**
 - Tweaked Store Permissions [(#4)](https://github.com/SansMe69/Sealcraft/issues/4)
 + Added **Repurposed Structures**
