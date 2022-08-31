@@ -18,6 +18,7 @@
 + Added Adventure World
 - Changed rarity of Mythical Crate rewards [(#16)](https://github.com/SansMe69/Sealcraft/issues/16)
 
+
 **__27/08/22__**
 + Added Starter Kit [(#6)](https://github.com/SansMe69/Sealcraft/issues/6)
 + Added Agate Kit [(#6)](https://github.com/SansMe69/Sealcraft/issues/6)
