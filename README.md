@@ -1,4 +1,11 @@
 # Sealcraft Changelog
+**__01/09/22__**
+- Breed and Hatch now have a 10 minute cooldown (it's scuffed but it works for now)
+- Disabled `Grasp of Hadar` skill
+- All modded logs and planks now give Woodcutting xp
+- Ditto breeding eggs can now be Ultra Beasts
+
+
 **__31/08/22__**
 - Migrated Test Server to OVH, ready for transfer to Live
 - Reduced Payday and G-Max Gold Rush payouts to match Live
