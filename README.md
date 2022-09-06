@@ -1,4 +1,42 @@
 # Sealcraft Changelog
+**__06/09/22__** (+5 days of backlog lol)
+- Nerfed most Pixelmon loot items due to the increase in structures they can generate in:
+	```
+	relic copper - $5,000 -> $2,000
+	relic silver - $10,000 -> $5,000
+	relic gold - $20,000 -> $15,000
+	relic vase - $50,000 -> $25000
+	relic band - $100,000 -> $50,000
+	relic statue - $300,000 -> $100,000
+	relic crown - $300,000 -> $150,000
+	nugget - $2,000 -> $1,400
+	big nugget - $5,000 -> $3,500
+	balm mushroom - $2,000 - > $1,200
+	big mushroom - $1,500 -> $1,500
+	big pearl - $5,000 -> $3,000
+	comet shard - $5,000 -> $3,000
+	pearl - $2,000 -> $1,000
+	pearl string - $5,000 -> $3,000
+	rare bone - $4,000 -> $2,000
+	star piece - $2,000 -> $1,500
+	stardust - $1,500 -> $1,000
+	tiny mushroom - $1,000 -> $600
+	```
+- Tweaked Wondertrade pool size and layout [(#34)](https://github.com/SansMe69/Sealcraft/issues/34)
+- Updated OS to Debian 11(?) to fix databases resetting [(#33)](https://github.com/SansMe69/Sealcraft/issues/33)
+- Added Redeem Kits for every paid rank [(#25)](https://github.com/SansMe69/Sealcraft/issues/25)
+- Recreated SQL Database [(#24)](https://github.com/SansMe69/Sealcraft/issues/24)
+- Added all Dex Rewards [(#23)](https://github.com/SansMe69/Sealcraft/issues/23)
+- Reset all playerdata from old test server [(#21)](https://github.com/SansMe69/Sealcraft/issues/21)
+- Added all voteshop content [(#17)](https://github.com/SansMe69/Sealcraft/issues/17)
+- Weighted all rewards in Legendary and Mythical crates [(#16)](https://github.com/SansMe69/Sealcraft/issues/16)
+- Eevee no longer appears more commonly than every other Pokemon [(#15)](https://github.com/SansMe69/Sealcraft/issues/15)
++ Added **Chess** :)
++ Added Safari World
+- Fixed Pokemon not spawning in the Safari World
+- Set the Azurite worldborder to be 6000 in each direction, 12k x 12k for now.
+
+
 **__01/09/22__**
 - Breed and Hatch now have a 10 minute cooldown (it's scuffed but it works for now)
 - Disabled `Grasp of Hadar` skill
