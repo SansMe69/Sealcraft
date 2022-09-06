@@ -31,7 +31,7 @@
 - Added all voteshop content [(#17)](https://github.com/SansMe69/Sealcraft/issues/17)
 - Weighted all rewards in Legendary and Mythical crates [(#16)](https://github.com/SansMe69/Sealcraft/issues/16)
 - Eevee no longer appears more commonly than every other Pokemon [(#15)](https://github.com/SansMe69/Sealcraft/issues/15)
-+ Added **Chess** :)
++ Added Chess :)
 + Added Safari World
 - Fixed Pokemon not spawning in the Safari World
 - Set the Azurite worldborder to be 6000 in each direction, 12k x 12k for now.
