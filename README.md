@@ -1,8 +1,13 @@
 # Sealcraft Changelog
 **__07/09/22__**
-- Pregenned Azurite by 6250 in each direction
+- Pregenned Azurite by 6250 in each direction [(#22)] (https://github.com/SansMe69/Sealcraft/issues/22)
 - Set Nether worldborder at 2500
 - Pregenned Nether by 2750 in each direction
+- Placed Dens all around Safari [(#28)] (https://github.com/SansMe69/Sealcraft/issues/28)
+- Set different biomes in Safari
+- Removed any punctuation from unscramble
+- Added 3 new Pokemon to unscramble
+
 
 **__06/09/22__** (+5 days of backlog lol)
 - Nerfed most Pixelmon loot items due to the increase in structures they can generate in:
