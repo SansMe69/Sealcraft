@@ -1,4 +1,9 @@
 # Sealcraft Changelog
+**__07/09/22__**
+- Pregenned Azurite by 6250 in each direction
+- Set Nether worldborder at 2500
+- Pregenned Nether by 2750 in each direction
+
 **__06/09/22__** (+5 days of backlog lol)
 - Nerfed most Pixelmon loot items due to the increase in structures they can generate in:
 	```
