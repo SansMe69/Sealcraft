@@ -7,6 +7,7 @@
 - Set different biomes in Safari
 - Removed any punctuation from unscramble
 - Added 3 new Pokemon to unscramble
+- Increased range of RTP
 
 
 **__06/09/22__** (+5 days of backlog lol)
