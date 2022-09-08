@@ -1,4 +1,9 @@
 # Sealcraft Changelog
+**__09/09/12__**
+- Set Adventure worldborder at 3000
+- Pregenned Adventure by 3250 in each direction [(#7)](https://github.com/SansMe69/Sealcraft/issues/7)
+
+
 **__08/09/22__**
 - Removed "Rarity" from all crate rewards (except shiny) [(#14)](https://github.com/SansMe69/Sealcraft/issues/14)
 - Migrated Test server to Live, ready for launch
@@ -10,6 +15,12 @@
 - Removed `Explorer's Compass`
 - Fixed incorrect text on RR kit [(#40)](https://github.com/SansMe69/Sealcraft/issues/40)
 - Flight and /fly no longer work in Adventure [(#42)](https://github.com/SansMe69/Sealcraft/issues/42)
+- Redid pregen for End due to `allow-vanilla-mobs` being false
+- Linked Buycraft
+- Added all vote sites
+- Added a spawn to the Nether
+- Added a spawn to the Safari
+- Added a spawn to the End
 
 
 **__07/09/22__**
