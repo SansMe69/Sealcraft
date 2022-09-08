@@ -1,33 +1,33 @@
 # Sealcraft Changelog
 **__08/09/22__**
-- Removed "Rarity" from all crate rewards (except shiny) [(#14)] (https://github.com/SansMe69/Sealcraft/issues/14)
+- Removed "Rarity" from all crate rewards (except shiny) [(#14)](https://github.com/SansMe69/Sealcraft/issues/14)
 - Migrated Test server to Live, ready for launch
 - Set End worldborder at 2500
-- Pregenned End by 2750 in each direction [(#36)] (https://github.com/SansMe69/Sealcraft/issues/36)
+- Pregenned End by 2750 in each direction [(#36)](https://github.com/SansMe69/Sealcraft/issues/36)
 - Redid pregen for Nether due to `allow-vanilla-mobs` being false
 - Added custom join messages
 - Banned Wither Skeleton Skull, End Crystal and Chorus Fruit in all worlds
 - Removed `Explorer's Compass`
-- Fixed incorrect text on RR kit [(#40)] (https://github.com/SansMe69/Sealcraft/issues/40)
-- Flight and /fly no longer work in Adventure [(#42)] (https://github.com/SansMe69/Sealcraft/issues/42)
+- Fixed incorrect text on RR kit [(#40)](https://github.com/SansMe69/Sealcraft/issues/40)
+- Flight and /fly no longer work in Adventure [(#42)](https://github.com/SansMe69/Sealcraft/issues/42)
 
 
 **__07/09/22__**
-- Pregenned Azurite by 6250 in each direction [(#22)] (https://github.com/SansMe69/Sealcraft/issues/22)
+- Pregenned Azurite by 6250 in each direction [(#22)](https://github.com/SansMe69/Sealcraft/issues/22)
 - Set Nether worldborder at 2500
 - Pregenned Nether by 2750 in each direction
-- Placed Dens all around Safari [(#28)] (https://github.com/SansMe69/Sealcraft/issues/28)
+- Placed Dens all around Safari [(#28)](https://github.com/SansMe69/Sealcraft/issues/28)
 - Set different biomes in Safari
 - Removed any punctuation from unscramble
 - Added 3 new Pokemon to unscramble
 - Increased range of RTP
-- Added `/warp EVs` [(#27)] (https://github.com/SansMe69/Sealcraft/issues/27)
-- Added map art for evacuation signs [(#29)] (https://github.com/SansMe69/Sealcraft/issues/27)
-- Added overworld "spawn" destination [(#35)] (https://github.com/SansMe69/Sealcraft/issues/35)
+- Added `/warp EVs` [(#27)](https://github.com/SansMe69/Sealcraft/issues/27)
+- Added map art for evacuation signs [(#29)](https://github.com/SansMe69/Sealcraft/issues/27)
+- Added overworld "spawn" destination [(#35)](https://github.com/SansMe69/Sealcraft/issues/35)
 - Prevented admins being changed to survival on world change and dying of fall damage :)
 - Fixed datapack load order overwriting custom prices
-- Added missing crate keys [(#37)] (https://github.com/SansMe69/Sealcraft/issues/37)
-- Added `/warp shrines` [(#26)] (https://github.com/SansMe69/Sealcraft/issues/26)
+- Added missing crate keys [(#37)](https://github.com/SansMe69/Sealcraft/issues/37)
+- Added `/warp shrines` [(#26)](https://github.com/SansMe69/Sealcraft/issues/26)
 - Pokemon no longer spawn in the overworld "spawn"
 
 
