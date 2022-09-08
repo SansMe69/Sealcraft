@@ -1,6 +1,15 @@
 # Sealcraft Changelog
 **__08/09/22__**
 - Removed "Rarity" from all crate rewards (except shiny) [(#14)] (https://github.com/SansMe69/Sealcraft/issues/14)
+- Migrated Test server to Live, ready for launch
+- Set End worldborder at 2500
+- Pregenned End by 2750 in each direction [(#36)] (https://github.com/SansMe69/Sealcraft/issues/36)
+- Redid pregen for Nether due to `allow-vanilla-mobs` being false
+- Added custom join messages
+- Banned Wither Skeleton Skull, End Crystal and Chorus Fruit in all worlds
+- Removed `Explorer's Compass`
+- Fixed incorrect text on RR kit [(#40)] (https://github.com/SansMe69/Sealcraft/issues/40)
+- Flight and /fly no longer work in Adventure [(#42)] (https://github.com/SansMe69/Sealcraft/issues/42)
 
 
 **__07/09/22__**
